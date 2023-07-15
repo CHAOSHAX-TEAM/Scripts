@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Microsoft Store Installer
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Install apps from the Microsoft Store without using the application.
 // @author       CHAOSHAX
 // @match        *://apps.microsoft.com/store/*
